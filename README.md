@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Sowrabh</h1>
+<h1 align="center">Hey 👋, I'm Sowrabh</h1>
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
