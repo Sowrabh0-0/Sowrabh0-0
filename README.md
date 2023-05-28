@@ -1,4 +1,3 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Sowrabh</h1>
 <h3 align="center">Hello, my name is Sowrabh, and I have a strong passion for technology. I am specifically interested in ethical hacking, cyber security, networking, and exploring the depths of the internet. I am enthusiastic about gaining an understanding of and potentially manipulating IoT devices, and I strive to stay updated with the latest advancements in these fields. My proactive mindset towards ensuring the security and integrity of digital systems is evident, demonstrating my dedication to staying knowledgeable and informed in the rapidly evolving landscape of technology and cybersecurity.</h3>
 <img align="right" alt="Coding" width"400" src"https://cdn.myportfolio.com/2fcfcb103788251450a8304378dffded/a62c047f-8369-493c-ab14-71ef51bebc55_rw_1200.gif?h=e8c7ce55b326319eaca316cc1e74518f">
