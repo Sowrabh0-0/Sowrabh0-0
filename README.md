@@ -1,3 +1,8 @@
+
+<h1 align="center">Hi 👋, I'm Sowrabh</h1>
+
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowrabh0-0&label=Profile%20views&color=0e75b6&style=flat" alt="sowrabh0-0" /> </p>
 
 - 🌱 I’m currently learning **Networking**
@@ -7,9 +12,8 @@
 - 📫 How to reach me **sowrabhmitoshi@gmail.com**
 
 - ⚡ Fun fact **Lol I'm Funny**
-
-<h3 align="left">Connect with me:</h3>
 <p align="left">
+  
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sowrabhseervi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sowrabh_0) 
 
