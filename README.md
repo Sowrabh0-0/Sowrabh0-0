@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **sowrabhmitoshi@gmail.com**
 
-- ⚡ Fun fact **Lol I'm Funny**
+- ⚡ I'm pursuing BTech/CSE at Amrita Vishwa Vidyapeetham's Coimbatore campus.
 <p align="left">
   
 ## 🌐 Socials:
