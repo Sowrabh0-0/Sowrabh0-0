@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Networking**
 
-- 💬 Ask me about **Cyber security, Ethical Hacking and Web Development**
+- 💬 Ask me about **Cyber security, Ethical Hacking and FullStack Development**
 
 - 📫 How to reach me **sowrabhmitoshi@gmail.com**
 
