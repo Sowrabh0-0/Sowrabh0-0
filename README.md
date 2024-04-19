@@ -14,9 +14,15 @@
   
 ## 🌐 Socials:
 <div align="center">
-<a class="icon-instagram social-button grey" href="http://instagram.com/sowrabh_0"></a>
-<a class="icon-twitter social-button color" href="https://twitter.com/sowrabh0_0"></a>
-<a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/sowrabhkumar"></a>
+  <a href="http://instagram.com/sowrabh_0">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="https://twitter.com/sowrabh0_0">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+    <a href="https://www.linkedin.com/in/sowrabhkumar">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 </div>
 
 # 💻 Tech Stack:
