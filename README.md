@@ -14,14 +14,14 @@
   
 ## 🌐 Socials:
 <p>
-  <a href="http://instagram.com/sowrabh_0" style="margin-right: 5px;">
-    <img src="https://skillicons.dev/icons?i=instagram" />
+  <a href="http://instagram.com/sowrabh_0" style="padding-right: 5px;">
+    <img src="https://skillicons.dev/icons?i=instagram"  title=instgram/>
   </a>
-  <a href="https://twitter.com/sowrabh0_0" style="margin-right: 5px;">
-    <img src="https://skillicons.dev/icons?i=twitter" />
+  <a href="https://twitter.com/sowrabh0_0" style="padding-right: 5px;">
+    <img src="https://skillicons.dev/icons?i=twitter" title=twitter />
   </a>
   <a href="https://www.linkedin.com/in/sowrabhkumar">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" title=linkedin />
   </a>
 </p>
 
