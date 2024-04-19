@@ -14,6 +14,7 @@
   
 ## 🌐 Socials:
 <div>
+<div>
   <a href="http://instagram.com/sowrabh_0" >
     <img src="https://skillicons.dev/icons?i=instagram"  title=instgram hspace="5" />
   </a>
@@ -27,6 +28,7 @@
   <a href="https://www.linkedin.com/in/sowrabhkumar">
     <img src="https://skillicons.dev/icons?i=linkedin" title=linkedin />
   </a>
+</div>
 </div>
 
 # 💻 Tech Stack:
