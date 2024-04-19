@@ -13,9 +13,10 @@
 <p align="left">
   
 ## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/sowrabh_0) &nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sowrabh0_0) &nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sowrabhkumar)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/sowrabh_0 "Instagram")&nbsp;
+[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sowrabh0_0 "Twitter")&nbsp;
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sowrabhkumar "LinkedIn")
+
 
 
 
