@@ -13,7 +13,7 @@
 <p align="left">
   
 ## 🌐 Socials:
-<p>
+<p align="center">
   <a href="http://instagram.com/sowrabh_0" >
     <img src="https://skillicons.dev/icons?i=instagram"  title=instgram hspace="5" />
   </a>
