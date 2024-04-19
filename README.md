@@ -5,9 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sowrabh0-0&label=Profile%20views&color=0e75b6&style=flat" alt="sowrabh0-0" /> </p>
 
-- 🌱 I’m currently learning **Networking**
-
-- 💬 Ask me about **Cyber security, Ethical Hacking and FullStack Development**
+- 💬 Ask me about **Networking, FullStack Development and Cyber security**
 
 - 📫 How to reach me **sowrabhmitoshi@gmail.com**
 
@@ -15,7 +13,11 @@
 <p align="left">
   
 ## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/sowrabhseervi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sowrabh_0) 
+<div align="center">
+<a class="icon-instagram social-button grey" href="http://instagram.com/sowrabh_0"></a>
+<a class="icon-twitter social-button color" href="https://twitter.com/sowrabh0_0"></a>
+<a class="icon-linkedin social-button color" href="https://www.linkedin.com/in/sowrabhkumar"></a>
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
