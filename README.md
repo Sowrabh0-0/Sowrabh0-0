@@ -13,17 +13,21 @@
 <p align="left">
   
 ## 🌐 Socials:
-<p align="center">
+<div>
   <a href="http://instagram.com/sowrabh_0" >
     <img src="https://skillicons.dev/icons?i=instagram"  title=instgram hspace="5" />
   </a>
+</div>
+<div>
   <a href="https://twitter.com/sowrabh0_0">
     <img src="https://skillicons.dev/icons?i=twitter" title=twitter hspace="5" />
   </a>
+</div>
+<div>
   <a href="https://www.linkedin.com/in/sowrabhkumar">
     <img src="https://skillicons.dev/icons?i=linkedin" title=linkedin />
   </a>
-</p>
+</div>
 
 # 💻 Tech Stack:
 <div align="center">
