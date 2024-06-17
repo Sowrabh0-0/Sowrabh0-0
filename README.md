@@ -22,8 +22,8 @@
 
 # 💻 Tech Stack:
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,next,tailwind,nodejs,express,mysql,git,kubernetes,docker,c,githubactions,solidity,haskell,bash,ubuntu,go,postgres" />
+  <a>
+    <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,next,tailwind,nodejs,express,mysql,git,kubernetes,docker,c,githubactions,solidity,haskell,bash,ubuntu,go,postgres,androidstudio,azure,dart,figma,flutter,mongodb,vercel" />
   </a>
 </p>
 
