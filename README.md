@@ -23,3 +23,5 @@
 ![Sowrabh0-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sowrabh0-0&theme=tokyonight&hide_border=false)
 ![Sowrabh0-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
+
+![github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=sowrabh0-0)
