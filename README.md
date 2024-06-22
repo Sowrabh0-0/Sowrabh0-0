@@ -18,14 +18,8 @@
 </p>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <div style="flex: 48%; padding-right: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
-  </div>
-  <div style="flex: 48%; padding-left: 1%;">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
-  </div>
-</div>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowrabh0-0&theme=dark&hide_border=false)
+![Sowrabh0-0's Stats](https://github-readme-stats.vercel.app/api?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Sowrabh0-0's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sowrabh0-0&theme=tokyonight&hide_border=false)
+![Sowrabh0-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
 
