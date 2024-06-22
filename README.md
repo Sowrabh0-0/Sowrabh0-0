@@ -19,8 +19,9 @@
 
 # 📊 GitHub Stats:
 
-![Sowrabh0-0 github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=Sowrabh0-0)
+![Sowrabh0-0 github-stats](https://stats.dooboo.io/api/github-stats?login=Sowrabh0-0)
 
-![Sowrabh0-0's Stats](https://github-readme-stats.vercel.app/api?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=false&count_private=true)
+![Sowrabh0-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
+![Sowrabh0-0's Stats](https://github-readme-stats.vercel.app/api?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
