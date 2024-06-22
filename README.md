@@ -19,7 +19,14 @@
 </p>
 
 # 📊 GitHub Stats:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 45%; padding-right: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
+  </div>
+  <div style="flex: 45%; padding-left: 5px;">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
+  </div>
+</div>
 
+# GitHub Streak:
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowrabh0-0&theme=dark&hide_border=false)
