@@ -18,12 +18,14 @@
 </p>
 
 # 📊 GitHub Stats:
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 45%; padding-right: 1px;">
+<div style="display: flex; justify-content: space-between; align-items: flex-start;">
+  <div style="flex: 48%; padding-right: 1%;">
     <img src="https://github-readme-stats.vercel.app/api?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false" alt="GitHub Stats" />
   </div>
-  <div style="flex: 45%; padding-left: 1px;">
+  <div style="flex: 48%; padding-left: 1%;">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sowrabh0-0&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact" alt="Top Languages" />
   </div>
 </div>
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowrabh0-0&theme=dark&hide_border=false)
+
