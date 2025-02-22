@@ -17,9 +17,5 @@
   <img src="https://skillicons.dev/icons?i=cpp,python,java,html,css,js,react,next,tailwind,nodejs,express,mysql,git,kubernetes,docker,c,githubactions,solidity,haskell,bash,ubuntu,go,postgres,androidstudio,azure,dart,figma,flutter,mongodb,vercel" />
 </p>
 
-# 📊 GitHub Stats:
-
-![Sowrabh0-0's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=true&layout=compact)
-![Sowrabh0-0's Stats](https://github-readme-stats.vercel.app/api?username=Sowrabh0-0&theme=tokyonight&show_icons=true&hide_border=true&count_private=true)
 
 
