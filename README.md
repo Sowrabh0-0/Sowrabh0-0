@@ -2,11 +2,6 @@
 
 <img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
-
-- 💬 Ask me about **Networking, FullStack Development and Cyber security**
-- 📫 How to reach me **sowrabhmitoshi@gmail.com**
-- ⚡ I'm pursuing BTech/CSE at Amrita Vishwa Vidyapeetham's Coimbatore campus.
-
 ## 🌐 Socials:
 [![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/sowrabh_0 "Instagram")&nbsp;
 [![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sowrabh0_0 "Twitter")&nbsp;
