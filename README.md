@@ -1,13 +1,27 @@
 <h1 align="center">Hey 👋, I'm Sowrabh</h1>
 
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
-
-## 🌐 Socials:
-[![Instagram](https://skillicons.dev/icons?i=instagram)](http://instagram.com/sowrabh_0 "Instagram")&nbsp;
-[![Twitter](https://skillicons.dev/icons?i=twitter)](https://twitter.com/sowrabh0_0 "Twitter")&nbsp;
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/sowrabhkumar "LinkedIn")
+<p align="center">
+  <img alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+</p>
 
 <br><br><br>
+
+## 🌐 Socials:
+<p align="center">
+  <a href="http://instagram.com/sowrabh_0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  &nbsp;
+  <a href="https://twitter.com/sowrabh0_0" target="_blank">
+    <img src="https://skillicons.dev/icons?i=twitter" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sowrabhkumar" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+</p>
+
+<br><br>
 
 ---
 
