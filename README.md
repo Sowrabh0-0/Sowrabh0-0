@@ -21,9 +21,7 @@
   </a>
 </p>
 
-<br><br>
-
----
+<br>
 
 # 💻 Tech Stack:
 <p align="center">
