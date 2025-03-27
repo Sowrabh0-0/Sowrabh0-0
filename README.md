@@ -7,7 +7,7 @@
 <br><br><br>
 
 ## 🌐 Socials:
-<p align="center">
+<p >
   <a href="http://instagram.com/sowrabh_0" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
